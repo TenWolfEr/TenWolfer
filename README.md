@@ -1,16 +1,14 @@
-## Hi there 👋
+## <img width="50px" src="https://i.pinimg.com/736x/37/f2/84/37f28417c74ebadc70f3e4759afdb3de.jpg" />Eason #TenWolfer
 
-<!--
-**TenWolfEr/TenWolfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Eason! I am a newbit of web. I love learing new technology and skills of web also cyber-security
 
-Here are some ideas to get you started:
+## 🤓 My values
+🍏 Beginner's mindset and curiosity<br>
+🙌 Sharing anything I learned<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Langues and Frameworks
+- Python
+- Html,CSS
+- nginx
+- JavaScript
+- Java,C++
